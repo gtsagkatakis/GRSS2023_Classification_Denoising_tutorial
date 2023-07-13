@@ -1,1 +1,1 @@
-# UCMerced_classification_tutorial
+# UCMerced classification & denoising tutorial
