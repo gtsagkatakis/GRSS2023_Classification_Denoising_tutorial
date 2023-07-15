@@ -21,6 +21,12 @@ The code explores various deep learning architectures, from Convolutional Neural
 * Programming frameworks
 
 [Session 3](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%203%20Final.pdf)
-
+* Inverse problems (denoising, super-resolution)
+* Generative models (autoencoders and GANs)
+* Self-supervised learning
 
 [Session 4](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%204%20Final.pdf)
+* Class imbalance
+* Deep Reinforcement Learning
+* Hardware-in-the-loop
+* Beyond SotA
