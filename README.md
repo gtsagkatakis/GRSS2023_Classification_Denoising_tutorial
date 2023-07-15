@@ -1,6 +1,8 @@
 # UCMerced classification & denoising tutorial
 
-Image Classification and Denoising: A Practical Guide
+This material was prepared for the IEEE GRSS-USC MHI 2023 Remote Sensing Summer School, in conjunction with the 2023 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)
+
+Remote Sensing image Classification and Denoising: A Practical Guide
 
 This repository contains a hands-on, easy-to-follow tutorial that provides an introduction to using Deep Learning techniques for Remote Sensing Image Classification and Denoising. 
 
