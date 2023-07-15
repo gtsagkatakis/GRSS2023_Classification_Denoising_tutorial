@@ -8,10 +8,11 @@ The code explores different deep learning architectures, from Convolutional Neur
 
 ## Tutorial slides
 [Session 1](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%201%20Final.pdf)
-*Big Data in Science 
-*Introduction to Machine Learning
-*Applications in remote sensing
-*Overview of data sources
-*Introduction to Deep Learning
+
+* Big Data in Science 
+* Introduction to Machine Learning
+* Applications in remote sensing
+* Overview of data sources
+* Introduction to Deep Learning
 
 
