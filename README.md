@@ -6,3 +6,7 @@ This repository contains a hands-on, easy-to-follow tutorial that provides an in
 
 The code explores different deep learning architectures, from Convolutional Neural Networks (CNNs) to U-NETs, and demonstrates how these can be applied to the two tasks in color images from the UCMerced dataset.
 
+## Tutorial slides
+[Session 1](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%201%20Final.pdf)
+
+
