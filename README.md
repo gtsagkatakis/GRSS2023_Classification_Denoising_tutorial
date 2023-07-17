@@ -9,7 +9,7 @@ This repository contains a hands-on, easy-to-follow tutorial that provides an in
 The code explores various deep learning architectures, from Convolutional Neural Networks (CNNs) to U-NETs and demonstrates how these can be applied to the two tasks in RGB images from the UCMerced dataset.
 
 ## Tutorial slides
-[Session 1](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%201%20Final.pdf)
+[Session 1 slides](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%201%20Final.pdf)
 
 * Big Data in Science 
 * Introduction to Machine Learning
@@ -17,17 +17,17 @@ The code explores various deep learning architectures, from Convolutional Neural
 * Overview of data sources
 * Introduction to Deep Learning
 
-[Session 2](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%202%20Final.pdf)
+[Session 2 slides](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%202%20Final.pdf)
 * Deep Learning architectures
 * Application of supervised/discriminative learning in remote sensing
 * Programming frameworks
 
-[Session 3](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%203%20Final.pdf)
+[Session 3 slides](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%203%20Final.pdf)
 * Inverse problems (denoising, super-resolution)
 * Generative models (autoencoders and GANs)
 * Self-supervised learning
 
-[Session 4](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%204%20Final.pdf)
+[Session 4 slides](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%204%20Final.pdf)
 * Class imbalance
 * Deep Reinforcement Learning
 * Hardware-in-the-loop
