@@ -8,7 +8,7 @@ This repository contains a hands-on, easy-to-follow tutorial that provides an in
 
 The code explores various deep learning architectures, from Convolutional Neural Networks (CNNs) to U-NETs, and demonstrates how these can be applied to the two tasks in RGB images from the UCMerced dataset.
 
-The [classification][https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Tutorial2023_Classification_UCMerced.ipynb] jupyter notebook provides an easy-to-follow example for remote sensing scene classification using ResNets.
+The [classification](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Tutorial2023_Classification_UCMerced.ipynb) jupyter notebook provides an easy-to-follow example for remote sensing scene classification using ResNets.
 
 The [denoising][https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Tutorial2023_Classification_UCMerced.ipynb] jupyter notebook provides an easy-to-follow example for remote sensing scene denoising using UNETs.
 ## Tutorial slides
