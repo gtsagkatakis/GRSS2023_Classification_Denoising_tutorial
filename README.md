@@ -50,7 +50,7 @@ The [denoising](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoisin
 
 [Session 4 video](https://youtu.be/OEC2bFRpSxo?si=Qfqgc0gSaQSLtZQq)
 
-[Session 4 slides](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%204%20Final.pdf)
+[Session 4 slides](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/8d19e6251b4a88a27f8dc098c800e484f73f53e7/Session%204%20FInal.pdf)
 
 * Class imbalance
 * Deep Reinforcement Learning
