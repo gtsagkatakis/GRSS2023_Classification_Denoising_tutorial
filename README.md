@@ -23,6 +23,8 @@ The [denoising](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoisin
 * Overview of data sources
 * Introduction to Deep Learning
 
+---
+
 [Session 2 video](https://youtu.be/zP7eUvyoONk?si=dvdJcMe-EotoYhrI)
 
 [Session 2 slides](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%202%20Final.pdf)
