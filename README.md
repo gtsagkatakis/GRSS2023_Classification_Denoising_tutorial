@@ -12,7 +12,7 @@ The [classification](https://github.com/gtsagkatakis/GRSS2023_Classification_Den
 
 The [denoising](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Tutorial2023_Classification_UCMerced.ipynb) jupyter notebook provides an easy-to-follow example for remote sensing scene denoising using UNETs.
 
----
+***
 
 ## Tutorial slides & videos
 
@@ -26,7 +26,7 @@ The [denoising](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoisin
 * Overview of data sources
 * Introduction to Deep Learning
 
----
+***
 
 [Session 2 video](https://youtu.be/zP7eUvyoONk?si=dvdJcMe-EotoYhrI)
 
@@ -46,6 +46,8 @@ The [denoising](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoisin
 * Generative models (autoencoders and GANs)
 * Self-supervised learning
 
+***
+
 [Session 4 video](https://youtu.be/OEC2bFRpSxo?si=Qfqgc0gSaQSLtZQq)
 
 [Session 4 slides](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%204%20Final.pdf)
@@ -53,4 +55,4 @@ The [denoising](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoisin
 * Class imbalance
 * Deep Reinforcement Learning
 * Hardware-in-the-loop
-* Beyond SotA
+* Beyond State-of-the-art
