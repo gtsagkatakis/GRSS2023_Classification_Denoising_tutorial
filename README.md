@@ -14,7 +14,7 @@ The [denoising](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoisin
 
 ---
 
-## Tutorial slides
+## Tutorial slides & videos
 
 [Session 1 video](https://youtu.be/N2SH20TJbRQ?si=Vb6INKW45-7UmbCs)
 
