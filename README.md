@@ -14,6 +14,7 @@ The [denoising](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoisin
 ## Tutorial slides
 
 [Session 1 video](https://youtu.be/N2SH20TJbRQ?si=Vb6INKW45-7UmbCs)
+
 [Session 1 slides](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%201%20Final.pdf)
 
 * Big Data in Science 
