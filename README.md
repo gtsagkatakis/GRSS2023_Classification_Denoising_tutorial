@@ -11,6 +11,8 @@ The code explores various deep learning architectures, from Convolutional Neural
 The [classification](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Tutorial2023_Classification_UCMerced.ipynb) jupyter notebook provides an easy-to-follow example for remote sensing scene classification using ResNets.
 
 The [denoising](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Tutorial2023_Classification_UCMerced.ipynb) jupyter notebook provides an easy-to-follow example for remote sensing scene denoising using UNETs.
+---
+
 ## Tutorial slides
 
 [Session 1 video](https://youtu.be/N2SH20TJbRQ?si=Vb6INKW45-7UmbCs)
@@ -32,6 +34,8 @@ The [denoising](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoisin
 * Deep Learning architectures
 * Application of supervised/discriminative learning in remote sensing
 * Programming frameworks
+
+***
 
 [Session 3 video](https://youtu.be/sfumLg9haLU?si=N3Ab7a4dbZn8Qrsf)
 
