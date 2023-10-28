@@ -23,17 +23,26 @@ The [denoising](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoisin
 * Overview of data sources
 * Introduction to Deep Learning
 
+[Session 2 video]([https://youtu.be/N2SH20TJbRQ?si=Vb6INKW45-7UmbCs](https://youtu.be/zP7eUvyoONk?si=dvdJcMe-EotoYhrI))
+
 [Session 2 slides](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%202%20Final.pdf)
+
 * Deep Learning architectures
 * Application of supervised/discriminative learning in remote sensing
 * Programming frameworks
 
+[Session 3 video]([https://youtu.be/N2SH20TJbRQ?si=Vb6INKW45-7UmbCs](https://youtu.be/sfumLg9haLU?si=N3Ab7a4dbZn8Qrsf))
+
 [Session 3 slides](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%203%20Final.pdf)
+
 * Inverse problems (denoising, super-resolution)
 * Generative models (autoencoders and GANs)
 * Self-supervised learning
 
+[Session 4 video](https://youtu.be/N2SH20TJbRQ?si=Vb6INKW45-7UmbCs)
+
 [Session 4 slides](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial/blob/main/Session%204%20Final.pdf)
+
 * Class imbalance
 * Deep Reinforcement Learning
 * Hardware-in-the-loop
